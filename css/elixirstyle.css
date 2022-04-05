@@ -1,0 +1,38 @@
+h1 {
+    color: grey;
+    margin: 0;
+    h1, h2, h3 {
+        margin: 0;
+    }
+}
+
+.purpletea {
+    color: purple;
+}
+.bluetea {
+    color: blue;
+}
+.greentea {
+    color: green
+}
+
+#berry {
+    color: red
+}
+.header {
+    background-color: darkgrey;
+}
+.content {
+    background-color: lightcyan;
+}
+
+.footer {
+    background-color: bisque;
+}
+.textbg {
+    background-color: yellow;
+}
+
+p img {
+    width: 50px;
+}
